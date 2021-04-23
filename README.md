@@ -10,7 +10,7 @@ Widget is draggable so feel free to move it anywhere, however widget will reset 
 default position if widget is reloaded.
 
 If you click the weather icon (*note not the white) it will open openweather with your city
-information.
+information. (*Assuming you provided a location and an openweather key*)
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
 
