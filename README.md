@@ -1,4 +1,4 @@
-# Persona 5 Style Calendar for Ubersicht 
+# Persona 5 Style Calendar for Übersicht
 
 All the calendar data is stored in an object named Calendar.
 Inside Calendar you can set the display language of to either English or Japanese.
