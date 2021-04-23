@@ -9,11 +9,7 @@ Note that you need to provide your own openweather key in order for the weather 
 Widget is draggable so feel free to move it anywhere, however widget will reset to the
 default position if widget is reloaded.
 
-Widget is draggable so feel free to move it anywhere, however widget will reset to the
-default position if widget is reloaded.
 If you click the weather icon (*note not the white) it will open openweather with your city
 information.
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
-
-
