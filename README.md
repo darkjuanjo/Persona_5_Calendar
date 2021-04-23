@@ -14,6 +14,10 @@ information.
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
 
+Image below has the following settings in calendar:
+Display_Language: "Japanese"
+Display_Type: "Half"
+
 ![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Persona_5_Calendar_Screenshot.png)
 
 
