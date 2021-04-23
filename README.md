@@ -13,3 +13,5 @@ If you click the weather icon (*note not the white) it will open openweather wit
 information.
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
+
+
