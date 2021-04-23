@@ -14,6 +14,6 @@ information.
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
 
-![Screenshot](../master/Persona_5_Calendar/Persona_5_Calendar_Screenshot.png)
+![Screenshot](darkjuanjo/master/Persona_5_Calendar/Persona_5_Calendar_Screenshot.png)
 
 
