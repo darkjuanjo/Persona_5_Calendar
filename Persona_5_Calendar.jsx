@@ -23,7 +23,7 @@ export const refreshFrequency = 1000;
 const Calendar = {
   Display_Language: "Japanese", //English - Japanese
   Display_Type: "Half", //Japanese Only : Full - Half
-  Folder: "Persona_5_Theme/Calendar_Assets/",
+  Folder: "Persona_5_Calendar/Calendar_Assets/",
   Month: 0,
   Day: 0,
   DayofWeek: "Taco Tuesday!",
