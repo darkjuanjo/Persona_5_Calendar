@@ -20,4 +20,15 @@ Display_Type: "Half"
 
 ![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Persona_5_Calendar_Screenshot.png)
 
+Image below has the following settings in calendar:
+Display_Language: "English"
+Display_Type: "Half" *English language will ignore this parameter*
+
+![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Calendar_Screenshot_English.png)
+
+Image below has the following settings in calendar:
+Display_Language: "Japanese"
+Display_Type: "Full"
+
+![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Calendar_Screenshot_Japanese_Full.png)
 
