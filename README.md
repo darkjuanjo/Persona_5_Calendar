@@ -14,14 +14,14 @@ information. (*Assuming you provided a location and an openweather key*)
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
 
-Image below has the following settings in calendar:
-Display_Language: "Japanese"
+Image below has the following settings in calendar:\
+Display_Language: "Japanese"\
 Display_Type: "Half"
 
 ![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Persona_5_Calendar_Screenshot.png)
 
-Image below has the following settings in calendar: \n
-Display_Language: "English" \n
+Image below has the following settings in calendar:
+Display_Language: "English"
 Display_Type: "Half" *English language will ignore this parameter*
 
 ![Screenshot](https://github.com/darkjuanjo/Persona_5_Calendar/blob/master/Calendar_Screenshot_English.png)
