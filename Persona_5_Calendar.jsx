@@ -26,10 +26,10 @@ const Calendar = {
   Folder: "Persona_5_Calendar/Calendar_Assets/",
   Month: 0,
   Day: 0,
-  DayofWeek: "Taco Tuesday!", //c6789b229601bed9b1b6501e0f4f718b
+  DayofWeek: "Taco Tuesday!",
   TimeofDay: "Early Morning",
   Location: "Calexico, US",
-  Key: "c6789b229601bed9b1b6501e0f4f718b", //openweather key
+  Key: "", //openweather key
   Weather: {
    Main: "None",
    FeelsLike: "None",
