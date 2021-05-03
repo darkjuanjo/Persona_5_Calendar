@@ -26,10 +26,10 @@ const Calendar = {
   Folder: "Persona_5_Calendar/Calendar_Assets/",
   Month: 0,
   Day: 0,
-  DayofWeek: "Taco Tuesday!",
+  DayofWeek: "Taco Tuesday!", //c6789b229601bed9b1b6501e0f4f718b
   TimeofDay: "Early Morning",
-  Location: "City, Country", //eg: Woburn, US
-  Key: "", //openweather key
+  Location: "Calexico, US",
+  Key: "c6789b229601bed9b1b6501e0f4f718b", //openweather key
   Weather: {
    Main: "None",
    FeelsLike: "None",
@@ -1086,12 +1086,13 @@ function setWeather(){
 
   }
   if(Calendar.Day < 10){
-    white_weather_image.style.position = "absolute";
     white_weather_image.src = Calendar.Folder + "Weather/" + "Weather_Base_White" + ".png";
+    white_weather_image.style.position = "absolute";
     white_weather_image.style.left = 148 + "px";
     white_weather_image.style.top = 7 + "px";
 
     weather_image.src = Calendar.Folder + "Weather/" + Calendar.Weather.Icon + "_" + Calendar.Weather.Frame + ".png";
+    weather_image.style.position = "absolute";
     weather_image.style.left = 163 + "px";
     weather_image.style.top =  19 + "px";
 
@@ -1129,7 +1130,7 @@ function setWeatherError()
 
 function animation()
 {
- if(Calendar.Weather.Icon != "loading.gif" && document.getElementById("weather") != null)
+ if(Calendar.Weather.Icon != "loading.gif" && document.getElementById("weather") != null && Calendar.Key != null && Calendar.Key != undefined && Calendar.Key != "none" && Calendar.Key != "None" && Calendar.Key != "")
  {
  Calendar.Weather.Frame = Calendar.Weather.Frame + 1;
  if(Calendar.Weather.Frame > 2)
