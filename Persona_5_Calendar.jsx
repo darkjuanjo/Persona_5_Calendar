@@ -28,7 +28,7 @@ const Calendar = {
   Day: 0,
   DayofWeek: "Taco Tuesday!",
   TimeofDay: "Early Morning",
-  Location: "Calexico, US",
+  Location: "Woburn, US",
   Key: "", //openweather key
   Weather: {
    Main: "None",
