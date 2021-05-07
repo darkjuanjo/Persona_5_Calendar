@@ -14,6 +14,8 @@ information. (*Assuming you provided a location and an openweather key*)
 
 For any changes you do makes sure to refresh all widgets. Otherwise timers starts adding up.
 
+Feel free to contact me for any issues with the Calendar.
+
 Image below has the following settings in calendar:\
 Display_Language: "Japanese"\
 Display_Type: "Half"
